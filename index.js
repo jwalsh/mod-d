@@ -2,6 +2,8 @@ import * as a from '@jwalsh/mod-a'
 import * as b from '@jwalsh/mod-b'
 import * as c from '@jwalsh/mod-c'
 
+console.log('mod-d loaded')
+
 let _ = function(n) {
 
 
